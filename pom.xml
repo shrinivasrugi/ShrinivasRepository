@@ -4,4 +4,8 @@
   <artifactId>GitProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!--testing changes--> 
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-firefox-driver -->
+  </dependencies>
+  
 </project>
